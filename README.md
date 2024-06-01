@@ -1,3 +1,3 @@
 # Lugx Gaming - Landingpage
 Lugx - HTML CSS Javascript Landingpage
-[Livw Demo](https://lugxgaming-page.surge.sh)
+[Live Demo](https://lugxgaming-page.surge.sh)
